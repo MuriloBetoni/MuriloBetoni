@@ -22,7 +22,7 @@ academic_education = {'semestre':6, 'curso':'Sistemas de Informação', 'faculda
 
 professional_xp = {'cargo':'Assistente Administrativo', 'empresa':'4 Show Comércio de Eletrônicos', 'admissao':f'{calendar.month_abbr[12]}/{int(year) - 1}', 'demissao':f'{calendar.month_abbr[7]}/{year}', 'atv':'Testes de funcionalidades para celulares, limpeza de eletrônicos e trabalhos manuais de carga e descarga'}
 
-knowledges = ['Python', 'Java', 'Oracle SQL', 'Office', 'Medologias Ágeis']
+knowledges = ['Python', 'Java', 'HTML', 'CSS', 'Javascript', 'Git', 'Oracle SQL', 'Office', 'Medologias Ágeis']
 
 negrito = '\033[;1m'
 limpa = '\033[m'
